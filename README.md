@@ -1,1 +1,1 @@
-# javaFxSnake
+# Simple snake in JavaFX
